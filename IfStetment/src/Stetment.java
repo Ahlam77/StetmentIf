@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author mohas
+ *
  */
 public class Stetment {
 
